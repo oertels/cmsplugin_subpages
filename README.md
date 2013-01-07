@@ -1,0 +1,2 @@
+cmsplugin_subpages
+==================
