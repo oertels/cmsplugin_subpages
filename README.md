@@ -1,7 +1,8 @@
 cmsplugin_subpages
 ==================
 Passes children of current page to template. It's possible then to create e.g. distribution pages.
-Sponsored by Webrunners GmbH (webrunners.de)
+
+Sponsored by [Webrunners GmbH](http://webrunners.de)
 
 # Installation
 
