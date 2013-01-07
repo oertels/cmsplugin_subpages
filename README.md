@@ -7,7 +7,8 @@ Passes children of current page to template. It's possible then to create e.g. d
 * Clone repository and add "cmsplugin_subpages" to INSTALLED_APPS
 * Migrate:
 
-    manage.py migrate
+    ./manage.py migrate
+
 
 # Usage
 
